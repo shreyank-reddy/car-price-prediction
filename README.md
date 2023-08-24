@@ -1,1 +1,2 @@
-# car-price-prediction
+# Car-Price-Prediction(ML Project)
+Platforms-JupyterNotebook,MATLAB 
